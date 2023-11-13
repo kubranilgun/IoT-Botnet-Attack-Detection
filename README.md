@@ -1,4 +1,4 @@
-# iot-botnet-attack-detection-using-1d-cnn
+# IoT Botnet Attack Detection Using 1D CNN with the N-BaIoT Dataset
 IoT Botnet Attack Detection Using 1D CNN with the N-BaIoT Dataset
 
 Datasets can be downloaded from here: https://drive.google.com/drive/folders/1pPos3ynkzFp5Q9ZeyUSLldoY77V_Bhen?usp=sharing.
